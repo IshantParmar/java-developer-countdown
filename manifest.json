@@ -1,0 +1,18 @@
+{
+  "name": "Job Ready By Nov 30, 2026 - Java Developer",
+  "short_name": "Java 2026 Goal",
+  "description": "Live countdown timer to become job-ready for Java Developer roles by November 30, 2026.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#050814",
+  "theme_color": "#050814",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
